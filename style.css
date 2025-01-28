@@ -3,3 +3,32 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+h1{
+  background-color: #FFDBAA;
+  color: #553100;
+  margin : -10px -10px -10px -10px;
+  padding : 100px 0px 0px 0px;
+}
+
+body{
+  background-color: #D4A76A;
+}
+
+button{
+  background-color: #805215;
+  color: white;
+  margin: auto;
+  position: relative;
+  width: 150px;
+  height: 100px;
+  font-size: 30px;
+  left: 650px;
+  bottom: 50px;
+}
+
+text{
+  font-size: 50px;
+  position: relative;
+  bottom: 70px;
+}
